@@ -1,3 +1,3 @@
-![Cover](https://github.com/bit-shift-studios/.github/assets/70282966/7483d138-b80c-4e0e-b113-0890a15d3a63)
+![Cover](https://github.com/bit-shift-studios/.github/assets/70282966/44c6eaed-e999-4aa9-83d8-1ba0c52d0a13)
 
 ### Building aesthetic and open-source software
